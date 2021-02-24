@@ -19,9 +19,9 @@ int main(){
     printf("n = ");
     scanf("%d", &n);
 
-    int* primesArray = (int*)calloc(n, sizeof(int));
+    //int* primesArray = (int*)calloc(n, sizeof(int)); // dynamic memory allocation
     
-    // int primesArray[100];
+    int primesArray[50] = {}; //static array.
 
     int ix = 0;
     for(int j = 2; j <= n; j++){
