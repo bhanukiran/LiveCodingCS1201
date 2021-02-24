@@ -1,0 +1,29 @@
+
+
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to n?
+
+
+Sample Inputs and Outputs:
+
+n = 10
+2520
+
+n = 15
+360360
+
+n = 20
+232792560
+
+n = 25
+26771144400
+
+n = 30
+2329089562800
+
+n = 40
+5342931457063200
+
+n = 50
+3099044504245996706400
