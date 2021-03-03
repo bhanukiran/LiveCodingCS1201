@@ -1,0 +1,16 @@
+
+Amicable numbers
+
+220 and 284 are called amicable numbers because they have an interesting relation. You take all the proper divisors  of 220 (1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110) and add them, you get 284. And likewise, all the proper divisors of 284 (1, 2, 4, 71 and 142) add up to 220.
+
+ 
+Given a number N, compute the sum of all the amicable numbers under N.
+
+Input:
+1000
+
+Ouput:
+504
+ 
+Constraints:
+0 < N < 20000
