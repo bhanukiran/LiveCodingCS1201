@@ -16,7 +16,7 @@ short isPrime(int n){
 
 int main(){
     int n;
-    printf("n = ");
+    // printf("n = ");
     scanf("%d", &n);
 
     //int* primesArray = (int*)calloc(n, sizeof(int)); // dynamic memory allocation
@@ -38,6 +38,6 @@ int main(){
         }
     }
 
-    printf("ans = %llu\n", ans);
+    printf("%llu\n", ans);
 
 }
