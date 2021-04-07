@@ -1,0 +1,29 @@
+[LCS3] Candy distribution 
+
+Imagine you are given n boxes each with different number of candies. For example you may be given 5 boxes each with 3 2 5 1 9 candies respectively. Your task is to fill the boxes with extra candies such that every box contains at least as many as that of the previous box.  What is the minimum number of extra candies that you will need to acheive this for given sequence?
+
+ 
+
+Example:
+
+Suppose you are given 5 boxes with 3 2 5 1 9 candies in each. You may modify this sequence to 3 3 5 5 9 such that every box has at least as many as the previous box, and you need at least 5 extra candies to do this. 
+
+ 
+
+Input:
+
+5
+
+3 2 5 1 9
+
+ 
+
+Where:
+
+The first line specifies the number of boxes n.
+The second line contains the sequence of no. of marbles in each box.
+ 
+
+Output:
+
+5
